@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate with other developers
 - 📫 How to reach me https://www.linkedin.com/in/anurag-chandra-485876267 ,https://instagram.com/anurag_16_01?igshid=OTk0YzhjMDVlZA==
--  My hackerrak id @anuragchandra161
--  My codechef id anuragchandra1
+-  My hackerrak id https://www.hackerrank.com/anuragchandra161?hr_r=1
+-  My codechef id https://www.codechef.com/users/anuragchandra1
 
 <!---
 AnuragChandra16/AnuragChandra16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
